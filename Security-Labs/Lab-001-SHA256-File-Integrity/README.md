@@ -102,7 +102,21 @@ Encryption is primarily used to protect **confidentiality**, while hashing can b
 
 By calculating a SHA-256 hash before and after modifying a file, I observed that changing the file contents produced a completely different hash.
 
+---
 
+## 📸 Lab Evidence
+
+### SHA-256 Hash Comparison
+
+The following PowerShell output shows the SHA-256 hash before and after the file was modified. The different hash values demonstrate that the file contents changed.
+
+![SHA-256 Hash Comparison](SHA256%20LAB%20001%20SECURITY.png)
+
+### Corrected File Name and Final Hash
+
+The following output verifies the SHA-256 hash using the corrected `important-file.txt` file name.
+
+![Final SHA-256 Verification](CorrectFileNameEdit.png)
 
 
 
