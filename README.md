@@ -9,7 +9,7 @@ My goal is to demonstrate the ability to configure, secure, troubleshoot, and do
 
 ### 🔐 CompTIA Security+ Labs
 
-Lab 001: SHA-256 File Integrity
+[🔐 Lab 001: SHA-256 File Integrity](Security-Labs/Lab-001-SHA256-File-Integrity/)
  
 ## 🧰 Technologies & Skills
 
