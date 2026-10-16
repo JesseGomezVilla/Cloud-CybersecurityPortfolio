@@ -1,6 +1,6 @@
-# 🔐 Lab 001: SHA-256 File Integrity Verification
+# Lab 001: SHA-256 File Integrity Verification
 
-## 🎯 Objective
+## Objective
 
 Demonstrate how SHA-256 hashing can be used to verify file integrity and detect when a file has been modified.
 
@@ -8,7 +8,7 @@ This lab demonstrates the **Integrity** component of the CIA Triad.
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Windows
 - Windows PowerShell
@@ -18,7 +18,7 @@ This lab demonstrates the **Integrity** component of the CIA Triad.
 
 ---
 
-## 🧪 Lab Procedure
+## Lab Procedure
 
 ### Step 1 — Create the Original File
 
@@ -64,7 +64,7 @@ New SHA-256:
 
 ---
 
-## 🔎 Results
+## Results
 
 The original and modified SHA-256 hashes were different.
 
@@ -84,7 +84,7 @@ SHA-256 does not tell me what changed inside the file. Instead, the hash compari
 
 ---
 
-## 🔐 Security Concepts Demonstrated
+## Security Concepts Demonstrated
 
 - CIA Triad — Integrity
 - Cryptographic hashing
@@ -94,7 +94,7 @@ SHA-256 does not tell me what changed inside the file. Instead, the hash compari
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 This lab demonstrated the difference between hashing and encryption.
 
@@ -104,7 +104,7 @@ By calculating a SHA-256 hash before and after modifying a file, I observed that
 
 ---
 
-## 📸 Lab Evidence
+## Lab Evidence
 
 ### SHA-256 Hash Comparison
 
