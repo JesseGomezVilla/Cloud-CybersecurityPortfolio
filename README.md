@@ -12,6 +12,8 @@ My goal is to demonstrate the ability to configure, secure, troubleshoot, and do
 [ Lab 001: SHA-256 File Integrity](Security-Labs/Lab-001-SHA256-File-Integrity/)
 
 [ Lab 002: Wireshark Network Traffic Analysis](Security-Labs/Lab-002-Wireshark-Network-Analysis/README.md)
+
+[ Lab 003: Python Security Log Analyzer](Security-Labs/Lab-003-Python-Security-Log-Analyzer/README.md)
  
 ## 🧰 Technologies & Skills
 
