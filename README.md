@@ -1,13 +1,11 @@
 # Cloud-CybersecurityPortfolio
 Welcome to my Cloud & Cybersecurity portfolio.
 
-This repository documents my hands on labs and projects as I build practical skills in cybersecurity, IT administration, Microsoft Azure, and cloud security.
+This repository documents my hands on labs and projects as I build practical skills in cybersecurity, IT administration, and cloud security.
 
 My goal is to demonstrate the ability to configure, secure, troubleshoot, and document real world IT and cloud environments.
 
-## 🧪 Hands-On Labs
-
-### 🔐 Cybersecurity Labs
+### 🔐 Hands-On Cybersecurity Labs
 
 [ Lab 001: SHA-256 File Integrity](Security-Labs/Lab-001-SHA256-File-Integrity/)
 
@@ -17,7 +15,8 @@ My goal is to demonstrate the ability to configure, secure, troubleshoot, and do
  
 ## 🧰 Technologies & Skills
 
-- Microsoft Azure
+- Wireshark
+- Python
 - Cybersecurity Fundamentals
 - Identity & Access Management
 - Role-Based Access Control (RBAC)
@@ -27,6 +26,6 @@ My goal is to demonstrate the ability to configure, secure, troubleshoot, and do
 - Troubleshooting
 
 ## 🎯 Current Focus
-  I am building my cybersecurity foundation through CompTIA Security+ while developing hands on labs to apply the concepts I have learned.
+  I am building my cybersecurity foundation while developing hands on labs to apply the concepts I have learned.
 
-My soon and future projects will expand into Microsoft Azure administration and Azure cloud security.
+My soon and future projects will expand into cloud security.
