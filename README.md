@@ -7,7 +7,7 @@ My goal is to demonstrate the ability to configure, secure, troubleshoot, and do
 
 ## 🧪 Hands-On Labs
 
-### 🔐 CompTIA Security+ Labs
+### 🔐 Cybersecurity Labs
 
 [ Lab 001: SHA-256 File Integrity](Security-Labs/Lab-001-SHA256-File-Integrity/)
 
